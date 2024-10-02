@@ -29,7 +29,7 @@ void ImgUploaderManager::init()
     //    m_qstrUrl = "https://imgur.com/";
     //    m_imgUploaderPlugin = "imgur";
     //}
-    m_urlString = "https://imgur.com/";
+    m_urlString = "https://i.112batman.com/";
     m_imgUploaderPlugin = "imgur";
 }
 
